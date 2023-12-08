@@ -1,6 +1,6 @@
 1:HL["/comic-web/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/comic-web/_next/static/css/c75ffe88e745dc1c.css","style",{"crossOrigin":""}]
-0:["UtrqU06DsEKWO7U5A7xfo",[[["",{"children":["volume",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/comic-web/_next/static/css/c75ffe88e745dc1c.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["uaRTlM2wHYapdKPPKp1QJ",[[["",{"children":["volume",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/comic-web/_next/static/css/c75ffe88e745dc1c.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[9465,["185","static/chunks/app/layout-68a229e621e712b7.js"],""]
 6:I[6954,[],""]
 7:I[7264,[],""]
